@@ -25,9 +25,6 @@ L'investigation numérique est un processus structuré qui permet de **retrouver
 - Alertes de sécurité (SIEM, IDS/IPS)
 - Rapports d’utilisateurs
 
-**Illustration suggérée** :  
-![Identification des incidents](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Security-incident-identification.svg/800px-Security-incident-identification.svg.png)
-
 ---
 
 ## 2. Préservation (ou acquisition)
@@ -38,9 +35,6 @@ L'investigation numérique est un processus structuré qui permet de **retrouver
 - Création d’images disques (bit à bit)
 - Blocage de l’écriture (write blocker)
 - Chaîne de traçabilité (chain of custody)
-
-**Illustration suggérée** :  
-![Préservation des preuves numériques](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Digital_forensics_chain_of_custody.png/800px-Digital_forensics_chain_of_custody.png)
 
 ---
 
@@ -53,9 +47,6 @@ L'investigation numérique est un processus structuré qui permet de **retrouver
 - Recherche de malwares ou de backdoors
 - Extraction de métadonnées
 - Analyse réseau (PCAP)
-
-**Illustration suggérée** :  
-![Analyse forensique](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Digital_Forensics_Analysis_Overview.png/800px-Digital_Forensics_Analysis_Overview.png)
 
 ---
 
@@ -110,12 +101,6 @@ L'investigation numérique est un processus structuré qui permet de **retrouver
 - Analyse de stéganographie
 - Recherche dans les espaces non alloués
 - Analyse des time stamps anormaux
-
----
-
-## Résumé schématique du processus
-
-![Cycle d'investigation numérique](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Digital_forensic_process.svg/800px-Digital_forensic_process.svg.png)
 
 ---
 
