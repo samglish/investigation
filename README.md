@@ -1,5 +1,4 @@
-# investigation
-Rapports d'investigations
+# Rapports d'investigations
 
 *  Identifier et analyser les traces laissées lors de l'instruction dans un système informatique
 * Collecter correctement les preuves nécessaires à des poursuites judiciaires
